@@ -1,6 +1,6 @@
 # Investigating opinions on public policies in digital media: setting up a supervised machine learning  tool for stance classification
 
-This repository contains the data and code to reproduce the results of our paper: https://TODO.
+This repository contains the data and code to reproduce the results of our [paper](https://doi.org/10.1080/19312458.2022.2151579).
 
 
 > **Abstract:** Supervised machine learning (SML) provides us with tools to efficiently scrutinize large corpora of communication texts. Yet, setting up such a tool involves plenty of decisions starting with the data needed for training, the selection of an algorithm, and the details of model training. We aim at establishing a firm link between communication research tasks and the corresponding state-of-the-art in natural language processing research by systematically comparing the performance of different automatic text analysis approaches. We do this for a challenging task – stance detection of opinions on policy measures to tackle the COVID-19 pandemic in Germany voiced on Twitter. Our results add evidence that pre-trained language models such as BERT outperform feature-based and other neural network approaches. Yet, the gains one can achieve differ greatly depending on the specific merits of pre-training (i.e., use of different language models). Adding to the robustness of our conclusions, we run a generalizability check with a different use case in terms of language and topic. Additionally, we illustrate how the amount and quality of training data affect model performance pointing to potential compensation effects. Based on our results, we derive important practical implications for setting up such SML tools to study communication texts.
@@ -156,7 +156,7 @@ If you find this repository helpful, feel free to cite our publication
   journal = {Communication Methods and Measures},
   year = {2022},
   pages = {XX-XX},
-  url = {TODO}
+  url = {https://doi.org/10.1080/19312458.2022.2151579}
 }
 ```
 
